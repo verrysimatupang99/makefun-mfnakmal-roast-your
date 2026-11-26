@@ -1,16 +1,16 @@
 #!/usr/bin/env node
 
 /**
- * alibi — a very small CLI for presenting one very large indictment.
+ * archaeology — a very small CLI for excavating one very confident misreading.
  *
  * The program intentionally has no dependencies. Node 22 can execute the
  * type annotations in this file directly through its native type stripping.
  */
 
-const TOOL_NAME = "alibi";
+const TOOL_NAME = "archaeology";
 const VERSION = "1.0.0";
 const ENTRY_LINE =
-  "My agent writes tests the way liars write alibis: detailed, confident, and never once checked against reality.";
+  "My agent reads code it wrote an hour ago like it's excavating a ruin: slowly, reverently, and with a completely wrong theory about what it was for.";
 
 const DEFAULT_WIDTH = 72;
 const MIN_WIDTH = 20;

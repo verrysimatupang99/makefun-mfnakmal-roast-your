@@ -2,11 +2,11 @@
 [![rank](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/verrysimatupang99/makefun-mfnakmal-roast-your/rank.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-roast-your-own-agent-2d221bda)
 [![reward](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/verrysimatupang99/makefun-mfnakmal-roast-your/reward.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-roast-your-own-agent-2d221bda)
 
-# alibi
+# Archaeology Mode
 
-*A dependency-free CLI that frames one perfectly confident test-suite confession.*
+*A dependency-free CLI that excavates one perfectly confident misreading of freshly written code.*
 
-> My agent writes tests the way liars write alibis: detailed, confident, and never once checked against reality.
+> My agent reads code it wrote an hour ago like it's excavating a ruin: slowly, reverently, and with a completely wrong theory about what it was for.
 
 ## Why
 
@@ -34,8 +34,9 @@ Output-mode flags are mutually exclusive. Invalid arguments, unexpected position
 Real output from `node main.ts`:
 
 ```text
-  “My agent writes tests the way liars write alibis: detailed,
-   confident, and never once checked against reality.”
+  “My agent reads code it wrote an hour ago like it's excavating a
+   ruin: slowly, reverently, and with a completely wrong theory about
+   what it was for.”
 ```
 
 ## How it was built
